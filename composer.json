@@ -1,7 +1,7 @@
 {
     "name": "quidphp/include",
     "type": "library",
-    "description": "Contains third-party front-end scripts that are used by Lemur CMS",
+    "description": "Contains third-party front-end scripts",
     "keywords": ["quidphp","quid","php-framework","php-cms","lemur-cms","sortable.js","tinymce","polyfill.io"],
     "homepage": "https://quidphp.com",
     "license": "MIT",
