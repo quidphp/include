@@ -1,0 +1,14 @@
+{
+    "name": "quidphp/include",
+    "type": "library",
+    "description": "Contains third-party front-end scripts that are used by Lemur CMS",
+    "keywords": ["quidphp","quid","php-framework","php-cms","lemur-cms","sortable.js","tinymce","polyfill.io"],
+    "homepage": "https://quidphp.com",
+    "license": "MIT",
+    "authors": [{
+        "name": "Pierre-Philippe Emond",
+        "email": "emondpph@gmail.com",
+        "homepage": "https://emond.io",
+        "role": "Developer"
+    }]
+}
