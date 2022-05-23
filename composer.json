@@ -10,5 +10,7 @@
         "email": "emondpph@gmail.com",
         "homepage": "https://emond.io",
         "role": "Developer"
-    }]
+    }],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
