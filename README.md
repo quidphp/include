@@ -10,7 +10,7 @@
 **QuidPHP/Include** is available as an open-source package under the [MIT license](LICENSE).
 
 ## Installation
-**QuidPHP/Include** can be easily installed with [Composer](https://getcomposer.org). It is available on [Packagist](https://packagist.org/packages/quidphp/site).
+**QuidPHP/Include** can be easily installed with [Composer](https://getcomposer.org). It is available on [Packagist](https://packagist.org/packages/quidphp/include).
 ``` bash
 $ composer require quidphp/include
 ```
