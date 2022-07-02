@@ -27,6 +27,6 @@ Once installed, the package will be available within your *vendor* folder.
 
 ## Overview
 **QuidPHP/Include** contains 3 JavaScript files. Here is an overview:
-- [fr_Fr](src/tinymce/langs/fr_Fr.js) - French language pack for the Tinymce text editor
+- [fr_Fr](src/tinymce/langs/fr_FR.js) - French language pack for the Tinymce text editor
 - [polyfill](src/polyfill.js) - Polyfill script used by Lemur CMS, targets earlier version of Microsoft Edge
 - [sortable](src/sortable.js) - Minified copy of the Sortable JavaScript library
