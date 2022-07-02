@@ -21,7 +21,7 @@ Once installed, the package will be available within your *vendor* folder.
 
 ## Included
 **QuidPHP/Include** comes bundled with the following front-end packages:
-- [Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) - Polyfill.io - Automatic polyfill service, used for Internet Explorer and Microsoft Edge. [jonathantneal/element-qsa-scope](https://github.com/jonathantneal/element-qsa-scope), a polyfill for query selector scope, is also manually copied within the polyfill file.
+- [Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) - Polyfill.io - Automatic polyfill service. [jonathantneal/element-qsa-scope](https://github.com/jonathantneal/element-qsa-scope), a polyfill for query selector scope, is also manually copied within the polyfill file.
 - [SortableJs/Sortable](https://github.com/SortableJS/Sortable) - Sortable - A JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - Tinymce - French language pack for Tinymce
 
